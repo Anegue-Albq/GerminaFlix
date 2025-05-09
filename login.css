@@ -1,0 +1,32 @@
+h1{
+    justify-content: center;
+    display: flex;
+}
+body{
+    background-color: rgb(44, 44, 44);
+}
+#perfis{
+    color: white;
+    justify-content: space-around;
+    display: flex;
+    font-size: x-large;
+    transition: 0.4s;
+    
+}
+img:hover{
+    transform: scale(0.9);
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    padding: 5px;
+    bottom: 0;
+    font-size: larger;
+
+}
